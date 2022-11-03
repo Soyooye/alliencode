@@ -1,1 +1,1 @@
-# alliencode
+Tindog by Andulrahman
